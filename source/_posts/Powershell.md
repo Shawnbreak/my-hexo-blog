@@ -2,8 +2,6 @@
 title: Powershell
 ---
 
-[toc]
-
 ## Execution Policy
 
 有三种: Bypass, RemoteSigned, Restricted
